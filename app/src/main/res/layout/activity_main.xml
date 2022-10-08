@@ -13,6 +13,7 @@
         android:gravity="center"
         android:text="Who is the 44th President of the United States?"
         android:textSize="40sp"
+        android:textColor="#120739"
         android:background= "@drawable/rounded_border_filled"
         />
 
@@ -22,8 +23,10 @@
         android:layout_height="200dp"
         android:gravity="center"
         android:text="Barack Obama"
+        android:textColor="#ffffff"
         android:textSize="40sp"
-        android:visibility="invisible"/>
+        android:background="@drawable/rounded_border_answer"
+        android:visibility="invisible" />
 
     <ImageView
         android:id="@+id/add_question_button"
