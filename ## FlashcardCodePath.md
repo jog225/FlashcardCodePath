@@ -3,7 +3,7 @@
 ## Lab 3
 
 ### App Description
-a basic flashcard app that allows user to save flashcards in a database; allowing the user to reopen to see past flashcards, and allows user to scroll through the deck of flashcards
+a basic flashcard app that allows user to save flashcards in a database; allowing the user to reopen to see past flashcards, in addition, user is able to scroll through the deck of flashcards
 
 ### App Walk-though
 <img src="http://g.recordit.co/61R4OkmswA.gif" width=200><br>
