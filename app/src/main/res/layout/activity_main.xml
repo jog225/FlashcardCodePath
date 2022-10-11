@@ -13,6 +13,7 @@
         android:gravity="center"
         android:text="Who is the 44th President of the United States?"
         android:textSize="40sp"
+        android:textColor="#120739"
         android:background= "@drawable/rounded_border_filled"
         />
 
@@ -22,8 +23,10 @@
         android:layout_height="200dp"
         android:gravity="center"
         android:text="Barack Obama"
+        android:textColor="#ffffff"
         android:textSize="40sp"
-        android:visibility="invisible"/>
+        android:background="@drawable/rounded_border_answer"
+        android:visibility="invisible" />
 
     <ImageView
         android:id="@+id/add_question_button"
@@ -31,10 +34,24 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:src="@drawable/icon_add"
+        android:src="@drawable/icon_add" />
 
-        />
+    <ImageView
+        android:id="@+id/flashcard_edit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_edit"
+        android:layout_margin="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
 
+    <ImageView
+        android:id="@+id/flashcard_next_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/icon_next" />
 
 
 </android.widget.RelativeLayout>

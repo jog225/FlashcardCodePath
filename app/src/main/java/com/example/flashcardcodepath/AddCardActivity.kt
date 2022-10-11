@@ -29,7 +29,6 @@ class AddCardActivity : AppCompatActivity() {
             finish()
         }
 
-
         val cancelButton = findViewById<ImageView>(R.id.flashcard_cancel_button)
         cancelButton.setOnClickListener{
             finish()

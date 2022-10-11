@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/joyce/AndroidStudioProjects/FlashcardCodePath/app/src/main/res/drawable/icon_add.xml" value="0.1" />
+        <entry key="..\:/Users/joyce/AndroidStudioProjects/FlashcardCodePath/app/src/main/res/drawable/rounded_border_answer.xml" value="0.1025" />
         <entry key="..\:/Users/joyce/AndroidStudioProjects/FlashcardCodePath/app/src/main/res/drawable/rounded_border_filled.xml" value="0.1" />
         <entry key="..\:/Users/joyce/AndroidStudioProjects/FlashcardCodePath/app/src/main/res/layout/activity_add_card.xml" value="0.1" />
-        <entry key="..\:/Users/joyce/AndroidStudioProjects/FlashcardCodePath/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/joyce/AndroidStudioProjects/FlashcardCodePath/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
